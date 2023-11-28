@@ -843,7 +843,7 @@ export function NxWelcome({ title }: { title: string }) {
           </div>
 
           <p id="love">
-            Carefully crafted with
+            Carefully crafted with3232323232
             <svg
               fill="currentColor"
               stroke="none"
